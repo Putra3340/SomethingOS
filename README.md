@@ -1,1 +1,3 @@
 # SomethingOS
+This my final project of Software Developer
+I Hope i finished it before ....
